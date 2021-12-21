@@ -32,7 +32,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Natural Language Understanding
 
-- TODO
+- [Awesome Natural Language Generation](https://github.com/accelerated-text/awesome-nlg) – A curated list of resources dedicated to Natural Language Generation.
+- [Awesome Deep Learning for Natural Language Processing](https://github.com/brianspiering/awesome-dl4nlp) – A curated list of resources dedicated to Deep Learning for Natural Language Processing.
+- [Awesome NLP](https://github.com/keon/awesome-nlp) – A curated list of resources dedicated to Natural Language Processing.
+- [Awesome NLP with Ruby](https://github.com/arbox/nlp-with-ruby) – A curated list of resources dedicated to Natural Language Processing and text processing for Ruby.
 
 ## Platforms
 
