@@ -18,13 +18,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Clients
 
-- [Alexa]() – 
-- [Line]() – 
-- [Messenger]() – 
-- [MS Teams]() – 
-- [Slack]() – 
-- [Telegram]() – 
-- [Whatsapp]() – 
+- [Alexa](https://developer.amazon.com/) – 
+- [Line](https://developers.line.biz/) – 
+- [Messenger](https://developers.facebook.com/docs/messenger-platform/) – 
+- [MS Teams](https://developer.microsoft.com/microsoft-teams) – 
+- [Slack](https://api.slack.com/) – 
+- [Telegram](https://core.telegram.org/) – 
+- [WhatsApp](https://developers.facebook.com/docs/whatsapp/) – 
 
 ## Conversational Ux
 
