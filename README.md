@@ -7,6 +7,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Books](#books)
 - [Conversational Ux](#conversational-ux)
+- [Natural Language Understanding](#natural-language-understanding)
 - [Platforms](#platforms)
 
 ## Books
@@ -18,9 +19,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Voiceflow](https://www.voiceflow.com/) – A conversation design tool for teams to design, prototype and launch voice & chat assistants.
 
+## Natural Language Understanding
+
+- TODO
+
 ## Platforms
 
 - [Amazon Lex](https://aws.amazon.com/lex/) – An AWS service for building conversational interfaces for applications using voice and text.
 - [Dialogflow](https://cloud.google.com/dialogflow) – Lifelike conversational AI with state-of-the-art virtual agents by Google.
+- [OpenDialog](https://opendialog.ai/) – OpenDialog enables you to design, develop and deploy conversational applications.
 - [Rasa](https://rasa.com/) – A platform to create virtual assistants at scale.
 - [SAP Conversational AI](https://cai.tools.sap/) – An end-to-end chatbot building platform from SAP.
