@@ -18,16 +18,17 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Clients
 
-- [Alexa](https://developer.amazon.com/) – 
-- [Line](https://developers.line.biz/) – 
-- [Messenger](https://developers.facebook.com/docs/messenger-platform/) – 
-- [MS Teams](https://developer.microsoft.com/microsoft-teams) – 
-- [Slack](https://api.slack.com/) – 
-- [Telegram](https://core.telegram.org/) – 
-- [WhatsApp](https://developers.facebook.com/docs/whatsapp/) – 
+- [Alexa](https://developer.amazon.com/) – Deploy your chatbot or virtual assistant as a skill to Amazon's cloud-based voice service Alexa.
+- [LINE](https://developers.line.biz/) – Connect your chatbot to LINE and make use of their bot designer for prototyping needs.
+- [Messenger](https://developers.facebook.com/docs/messenger-platform/) – Enhance your Facebook Page experience by adding a chatbot through Messegner.
+- [MS Teams](https://developer.microsoft.com/microsoft-teams) – Make us of the MS Teams bot SDK and framework to turn your chatbot into an MS Teams app.
+- [Slack](https://api.slack.com/) – Reach your end users where they work by deploying your chat bot to Slack.
+- [Telegram](https://core.telegram.org/) – Make use of the Telegram Bot API to easily connect your chatbot to Telegram.
+- [WhatsApp](https://developers.facebook.com/docs/whatsapp/) – Use WhatsApp Business Platform APIs to connect bots with customers.
 
 ## Conversational Ux
 
+- [SAP Conversational Experience Design](https://experience.sap.com/conversational-ux/) – SAP Conversational Experience Design (SAP CxD) is a design language for enterprise conversational products. It provides guidelines and tools for designing conversational products that integrate seamlessly across business applications.
 - [Voiceflow](https://www.voiceflow.com/) – A conversation design tool for teams to design, prototype and launch voice & chat assistants.
 
 ## Natural Language Understanding
