@@ -5,14 +5,15 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Contents
 
-- [Books](#books)
+- [Books and Papers](#books-and-papers)
 - [Clients](#clients)
 - [Conversational Ux](#conversational-ux)
 - [Natural Language Understanding](#natural-language-understanding)
 - [Platforms](#platforms)
 
-## Books
+## Books and Papers
 
+- [An Annotated Reading List of Conversational AI](https://medium.com/x8-the-ai-community/a-reading-list-and-mini-survey-of-conversational-ai-32fceea97180) - An annotated list of mostly academic papers on all the topcis around Conversational AI. Created in 2018.
 - [Designing Bots](https://www.oreilly.com/library/view/designing-bots/9781491974810/) - This practical guide shows you how to design and build great conversational experiences and delightful bots that help people be more productive.
 - [Designing Voice User Interfaces](https://www.oreilly.com/library/view/designing-voice-user/9781491955406/) - Whether you are designing a mobile app, a toy, or a device such as a home assistant, this practical book guides you through basic VUI design principles, helps you choose the right speech recognition engine, and shows you how to measure your VUI's performance and improve upon it.
 
