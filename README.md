@@ -1,5 +1,5 @@
 # Awesome Conversational AI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-> A curated list of delightful Conversational AI resources.
+> A curated list of delightful Conversational AI resources to help you dive in and create awesome chatbots or digital assistants.
 
 ## Contents
 
