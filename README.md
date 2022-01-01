@@ -1,8 +1,6 @@
 # Awesome Conversational AI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 > A curated list of delightful Conversational AI resources.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
-
 ## Contents
 
 - [Books and Papers](#books-and-papers)
