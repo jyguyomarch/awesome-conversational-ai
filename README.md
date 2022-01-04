@@ -27,6 +27,7 @@
 
 ## Conversational Ux
 
+- [Conversation Design Institute](https://www.conversationdesigninstitute.com/) - An institute, first of its kind (as far as I know), offering courses, certifications, and an annual conference on Conversational Design.
 - [SAP Conversational Experience Design](https://experience.sap.com/conversational-ux/) - SAP Conversational Experience Design (SAP CxD) is a design language for enterprise conversational products. It provides guidelines and tools for designing conversational products that integrate seamlessly across business applications.
 - [Voiceflow](https://www.voiceflow.com/) - A conversation design tool for teams to design, prototype and launch voice & chat assistants.
 
