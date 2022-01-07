@@ -43,6 +43,7 @@
 ## Platforms
 
 - [Amazon Lex](https://aws.amazon.com/lex/) - An AWS service for building conversational interfaces for applications using voice and text.
+- [Chai](https://chai.ml/) - Open-source platform for developers to build chatbots using Python and deploy them to the Chai mobile app.
 - [Dialogflow](https://cloud.google.com/dialogflow) - Lifelike conversational AI with state-of-the-art virtual agents by Google.
 - [OpenDialog](https://opendialog.ai/) - OpenDialog enables you to design, develop and deploy conversational applications. Offers an open source version and an Enterprise edition.
 - [Rasa](https://rasa.com/) - A platform to create virtual assistants at scale. Offers an open source version and an Enterprise edition.
