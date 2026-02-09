@@ -45,6 +45,7 @@
 ## Platforms
 
 - [Amazon Lex](https://aws.amazon.com/lex/) - An AWS service for building conversational interfaces for applications using voice and text.
+- [ClawdTalk](https://github.com/team-telnyx/clawdtalk-client) - Open source voice calling skill for AI agents, enabling natural phone conversations with tool integration.
 - [Chai](https://chai.ml/) - Open-source platform for developers to build chatbots using Python and deploy them to the Chai mobile app.
 - [Dasha](https://dasha.ai/) - Conversational AI platform as a service with a strong focus on voice.
 - [Dialogflow](https://cloud.google.com/dialogflow) - Lifelike Conversational AI with state-of-the-art virtual agents by Google.
