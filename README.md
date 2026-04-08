@@ -49,5 +49,6 @@
 - [Dasha](https://dasha.ai/) - Conversational AI platform as a service with a strong focus on voice.
 - [Dialogflow](https://cloud.google.com/dialogflow) - Lifelike Conversational AI with state-of-the-art virtual agents by Google.
 - [OpenDialog](https://opendialog.ai/) - OpenDialog enables you to design, develop and deploy conversational applications. Offers an open-source version and an Enterprise edition.
+- [Overloop CLI](https://github.com/sortlist/overloop-cli) - AI-powered outbound sales automation engine. Source prospects from 450M+ contacts, launch email + LinkedIn campaigns, and manage conversations from the terminal. JSON output, agent-native.
 - [Rasa](https://rasa.com/) - A platform to create virtual assistants at scale. Offers an open-source version and an Enterprise edition.
 - [SAP Conversational AI](https://cai.tools.sap/) - An end-to-end chatbot building platform from SAP. Comes with a free Community edition and an Enterprise edition.
