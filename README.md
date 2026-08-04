@@ -48,6 +48,7 @@
 - [Chai](https://chai.ml/) - Open-source platform for developers to build chatbots using Python and deploy them to the Chai mobile app.
 - [Dasha](https://dasha.ai/) - Conversational AI platform as a service with a strong focus on voice.
 - [Dialogflow](https://cloud.google.com/dialogflow) - Lifelike Conversational AI with state-of-the-art virtual agents by Google.
+- [Hermes](https://www.buildwithhermes.com/) - The operating platform for AI voice agencies. Deploy, manage, and bill white-label voice agents under your own brand, with built-in CRM and campaign orchestration. From $149/month.
 - [OpenDialog](https://opendialog.ai/) - OpenDialog enables you to design, develop and deploy conversational applications. Offers an open-source version and an Enterprise edition.
 - [Rasa](https://rasa.com/) - A platform to create virtual assistants at scale. Offers an open-source version and an Enterprise edition.
 - [SAP Conversational AI](https://cai.tools.sap/) - An end-to-end chatbot building platform from SAP. Comes with a free Community edition and an Enterprise edition.
