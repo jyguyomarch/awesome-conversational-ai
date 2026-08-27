@@ -51,3 +51,4 @@
 - [OpenDialog](https://opendialog.ai/) - OpenDialog enables you to design, develop and deploy conversational applications. Offers an open-source version and an Enterprise edition.
 - [Rasa](https://rasa.com/) - A platform to create virtual assistants at scale. Offers an open-source version and an Enterprise edition.
 - [SAP Conversational AI](https://cai.tools.sap/) - An end-to-end chatbot building platform from SAP. Comes with a free Community edition and an Enterprise edition.
+- [Workforce Wave](https://www.workforcewave.com/) - AI voice agent platform for small businesses, handling 24/7 call answering, appointment booking and lead capture.
