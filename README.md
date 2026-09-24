@@ -40,7 +40,6 @@
 - [Awesome Natural Language Generation](https://github.com/accelerated-text/awesome-nlg) - A curated list of resources dedicated to Natural Language Generation.
 - [Awesome NLP](https://github.com/keon/awesome-nlp) - A curated list of resources dedicated to Natural Language Processing.
 - [Awesome NLP with Ruby](https://github.com/arbox/nlp-with-ruby) - A curated list of resources dedicated to Natural Language Processing and text processing for Ruby.
-- [The NLP Index](https://index.quantumstat.com/) - The NLP Index, a free and open-source code discovery tool, houses over 3000+ code repos. It includes the arxiv research paper PDF, ConnectedPapers link, and its GitHub repo.
 
 ## Platforms
 
@@ -48,6 +47,7 @@
 - [Chai](https://chai.ml/) - Open-source platform for developers to build chatbots using Python and deploy them to the Chai mobile app.
 - [Dasha](https://dasha.ai/) - Conversational AI platform as a service with a strong focus on voice.
 - [Dialogflow](https://cloud.google.com/dialogflow) - Lifelike Conversational AI with state-of-the-art virtual agents by Google.
+- [Hellomatik](https://hellomatik.com) - AI agents that answer business questions from one blueprint of a company's data, procedures and formulas, and prepare each decision for an approver to accept, amend or reject.
 - [OpenDialog](https://opendialog.ai/) - OpenDialog enables you to design, develop and deploy conversational applications. Offers an open-source version and an Enterprise edition.
 - [Rasa](https://rasa.com/) - A platform to create virtual assistants at scale. Offers an open-source version and an Enterprise edition.
 - [SAP Conversational AI](https://cai.tools.sap/) - An end-to-end chatbot building platform from SAP. Comes with a free Community edition and an Enterprise edition.
